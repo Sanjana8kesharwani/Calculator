@@ -1,4 +1,4 @@
 # Calculator
 This is my first Repository.
 <br>
-Author - Sanjana Kesharwan
+Author - Sanjana Kesharwani
